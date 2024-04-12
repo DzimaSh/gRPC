@@ -48,3 +48,8 @@ protobuf {
 test {
     useJUnitPlatform()
 }
+
+tasks.register('run', JavaExec) {
+    mainClass = 'by.dzimash.NumberClient'
+    classpath = sourceSets.main.runtimeClasspath
+}

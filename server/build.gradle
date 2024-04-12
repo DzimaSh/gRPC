@@ -47,3 +47,8 @@ protobuf {
 test {
     useJUnitPlatform()
 }
+
+tasks.register('run', JavaExec) {
+    mainClass = 'by.dzimash.NumberServer'
+    classpath = sourceSets.main.runtimeClasspath
+}
