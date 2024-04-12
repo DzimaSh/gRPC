@@ -1,0 +1,31 @@
+2024-04-12 22:36:29 INFO  NumberServer:24 - Starting the server...
+2024-04-12 22:36:29 INFO  NumberServer:30 - Server started, listening on 8080
+2024-04-12 22:36:44 INFO  NumberService:14 - Received request for numbers from 0 to 30
+2024-04-12 22:36:44 INFO  NumberService:22 - Sent number: 0
+2024-04-12 22:36:46 INFO  NumberService:22 - Sent number: 1
+2024-04-12 22:36:48 INFO  NumberService:22 - Sent number: 2
+2024-04-12 22:36:50 INFO  NumberService:22 - Sent number: 3
+2024-04-12 22:36:52 INFO  NumberService:22 - Sent number: 4
+2024-04-12 22:36:54 INFO  NumberService:22 - Sent number: 5
+2024-04-12 22:36:56 INFO  NumberService:22 - Sent number: 6
+2024-04-12 22:36:58 INFO  NumberService:22 - Sent number: 7
+2024-04-12 22:37:00 INFO  NumberService:22 - Sent number: 8
+2024-04-12 22:37:02 INFO  NumberService:22 - Sent number: 9
+2024-04-12 22:37:04 INFO  NumberService:22 - Sent number: 10
+2024-04-12 22:37:06 INFO  NumberService:22 - Sent number: 11
+2024-04-12 22:37:08 INFO  NumberService:22 - Sent number: 12
+2024-04-12 22:37:10 INFO  NumberService:22 - Sent number: 13
+2024-04-12 22:37:12 INFO  NumberService:22 - Sent number: 14
+2024-04-12 22:37:14 INFO  NumberService:22 - Sent number: 15
+2024-04-12 22:37:16 INFO  NumberService:22 - Sent number: 16
+2024-04-12 22:37:18 INFO  NumberService:22 - Sent number: 17
+2024-04-12 22:37:20 INFO  NumberService:22 - Sent number: 18
+2024-04-12 22:37:22 INFO  NumberService:22 - Sent number: 19
+2024-04-12 22:37:24 INFO  NumberService:22 - Sent number: 20
+2024-04-12 22:37:26 INFO  NumberService:22 - Sent number: 21
+2024-04-12 22:37:28 INFO  NumberService:22 - Sent number: 22
+2024-04-12 22:37:30 INFO  NumberService:22 - Sent number: 23
+2024-04-12 22:37:32 INFO  NumberService:22 - Sent number: 24
+2024-04-12 22:37:34 INFO  NumberService:22 - Sent number: 25
+2024-04-12 22:37:36 INFO  NumberService:22 - Sent number: 26
+2024-04-12 22:37:38 INFO  NumberService:22 - Sent number: 27

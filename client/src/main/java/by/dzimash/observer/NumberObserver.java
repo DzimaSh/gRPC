@@ -16,10 +16,9 @@ public class NumberObserver implements StreamObserver<NumberResponse> {
     @Override
     public void onNext(NumberResponse response) {
         int lastNumberFromServer = response.getNumber();
-        int current = currentValue.addAndGet(lastNumberFromServer + 1);
-
-        log.info("currentValue: " + current);
         log.info("number from server: " + lastNumberFromServer);
+
+        log.info("currentValue: " + currentValue.addAndGet(lastNumberFromServer + 1));
     }
 
     @Override

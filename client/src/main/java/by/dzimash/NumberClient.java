@@ -38,9 +38,9 @@ public class NumberClient {
 
         int currentValue;
         for (int i = 0; i < 50; i++) {
-            Thread.sleep(1000);
             currentValue = numberObserver.getCurrentValue().incrementAndGet();
             log.info("currentValue: " + currentValue);
+            Thread.sleep(1000);
         }
 
         log.info("Shutting down the client...");
