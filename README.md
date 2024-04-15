@@ -12,7 +12,7 @@ To run this application, you will need JDK and Gradle installed.
 
 1. Clone the repository:
 ```bash
-git clone [your repository link]
+git clone [repository link]
 ```
 
 2. Build the project:
@@ -23,13 +23,13 @@ gradle build
 ## Running the Server
 To start the server, use the following command:
 ```bash
-gradle runServer
+gradle :server:run
 ```
 
 ## Running the Client
 To start the client, use the following command:
 ```bash
-gradle runClient
+gradle :client:run
 ```
 
 ## Functionality

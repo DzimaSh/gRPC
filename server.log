@@ -1,0 +1,35 @@
+2024-04-15 10:03:42 INFO  NumberServer:24 - Starting the server...
+2024-04-15 10:03:42 INFO  NumberServer:30 - Server started, listening on 8080
+2024-04-15 10:03:53 INFO  NumberService:14 - Received request for numbers from 0 to 30
+2024-04-15 10:03:53 INFO  NumberService:22 - Sent number: 0
+2024-04-15 10:03:55 INFO  NumberService:22 - Sent number: 1
+2024-04-15 10:03:57 INFO  NumberService:22 - Sent number: 2
+2024-04-15 10:03:59 INFO  NumberService:22 - Sent number: 3
+2024-04-15 10:04:01 INFO  NumberService:22 - Sent number: 4
+2024-04-15 10:04:03 INFO  NumberService:22 - Sent number: 5
+2024-04-15 10:04:05 INFO  NumberService:22 - Sent number: 6
+2024-04-15 10:04:07 INFO  NumberService:22 - Sent number: 7
+2024-04-15 10:04:09 INFO  NumberService:22 - Sent number: 8
+2024-04-15 10:04:11 INFO  NumberService:22 - Sent number: 9
+2024-04-15 10:04:13 INFO  NumberService:22 - Sent number: 10
+2024-04-15 10:04:15 INFO  NumberService:22 - Sent number: 11
+2024-04-15 10:04:17 INFO  NumberService:22 - Sent number: 12
+2024-04-15 10:04:19 INFO  NumberService:22 - Sent number: 13
+2024-04-15 10:04:21 INFO  NumberService:22 - Sent number: 14
+2024-04-15 10:04:23 INFO  NumberService:22 - Sent number: 15
+2024-04-15 10:04:25 INFO  NumberService:22 - Sent number: 16
+2024-04-15 10:04:27 INFO  NumberService:22 - Sent number: 17
+2024-04-15 10:04:29 INFO  NumberService:22 - Sent number: 18
+2024-04-15 10:04:31 INFO  NumberService:22 - Sent number: 19
+2024-04-15 10:04:33 INFO  NumberService:22 - Sent number: 20
+2024-04-15 10:04:35 INFO  NumberService:22 - Sent number: 21
+2024-04-15 10:04:37 INFO  NumberService:22 - Sent number: 22
+2024-04-15 10:04:39 INFO  NumberService:22 - Sent number: 23
+2024-04-15 10:04:41 INFO  NumberService:22 - Sent number: 24
+2024-04-15 10:04:43 INFO  NumberService:22 - Sent number: 25
+2024-04-15 10:04:45 INFO  NumberService:22 - Sent number: 26
+2024-04-15 10:04:47 INFO  NumberService:22 - Sent number: 27
+2024-04-15 10:04:49 INFO  NumberService:22 - Sent number: 28
+2024-04-15 10:04:51 INFO  NumberService:22 - Sent number: 29
+2024-04-15 10:04:53 INFO  NumberService:22 - Sent number: 30
+2024-04-15 10:04:55 INFO  NumberService:32 - Completed sending numbers
