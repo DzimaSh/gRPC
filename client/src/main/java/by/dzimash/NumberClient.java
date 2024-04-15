@@ -7,10 +7,13 @@ import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;
 import lombok.extern.slf4j.Slf4j;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 @Slf4j
 public class NumberClient {
 
-    private final NumberObserver numberObserver = new NumberObserver();
+    private final AtomicInteger counter = new AtomicInteger(0);
+    private final NumberObserver numberObserver = new NumberObserver(counter);
 
     public static void main(String[] args) {
         try {
@@ -38,8 +41,8 @@ public class NumberClient {
 
         int currentValue;
         for (int i = 0; i < 50; i++) {
-            currentValue = numberObserver.getCurrentValue().incrementAndGet();
-            log.info("currentValue: " + currentValue);
+            currentValue = counter.incrementAndGet();
+            log.info("currentValue: {}", currentValue);
             Thread.sleep(1000);
         }
 

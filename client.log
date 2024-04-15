@@ -1,103 +1,103 @@
-2024-04-12 22:36:43 INFO  NumberClient:24 - Starting the client...
-2024-04-12 22:36:43 INFO  NumberClient:36 - Sending request to server...
-2024-04-12 22:36:43 INFO  NumberClient:42 - currentValue: 1
-2024-04-12 22:36:44 INFO  NumberObserver:19 - number from server: 0
-2024-04-12 22:36:44 INFO  NumberObserver:21 - currentValue: 2
-2024-04-12 22:36:44 INFO  NumberClient:42 - currentValue: 3
-2024-04-12 22:36:45 INFO  NumberClient:42 - currentValue: 4
-2024-04-12 22:36:46 INFO  NumberObserver:19 - number from server: 1
-2024-04-12 22:36:46 INFO  NumberObserver:21 - currentValue: 6
-2024-04-12 22:36:46 INFO  NumberClient:42 - currentValue: 7
-2024-04-12 22:36:47 INFO  NumberClient:42 - currentValue: 8
-2024-04-12 22:36:48 INFO  NumberObserver:19 - number from server: 2
-2024-04-12 22:36:48 INFO  NumberObserver:21 - currentValue: 11
-2024-04-12 22:36:48 INFO  NumberClient:42 - currentValue: 12
-2024-04-12 22:36:49 INFO  NumberClient:42 - currentValue: 13
-2024-04-12 22:36:50 INFO  NumberObserver:19 - number from server: 3
-2024-04-12 22:36:50 INFO  NumberObserver:21 - currentValue: 17
-2024-04-12 22:36:50 INFO  NumberClient:42 - currentValue: 18
-2024-04-12 22:36:51 INFO  NumberClient:42 - currentValue: 19
-2024-04-12 22:36:52 INFO  NumberObserver:19 - number from server: 4
-2024-04-12 22:36:52 INFO  NumberObserver:21 - currentValue: 24
-2024-04-12 22:36:52 INFO  NumberClient:42 - currentValue: 25
-2024-04-12 22:36:53 INFO  NumberClient:42 - currentValue: 26
-2024-04-12 22:36:54 INFO  NumberObserver:19 - number from server: 5
-2024-04-12 22:36:54 INFO  NumberObserver:21 - currentValue: 32
-2024-04-12 22:36:54 INFO  NumberClient:42 - currentValue: 33
-2024-04-12 22:36:55 INFO  NumberClient:42 - currentValue: 34
-2024-04-12 22:36:56 INFO  NumberObserver:19 - number from server: 6
-2024-04-12 22:36:56 INFO  NumberObserver:21 - currentValue: 41
-2024-04-12 22:36:56 INFO  NumberClient:42 - currentValue: 42
-2024-04-12 22:36:57 INFO  NumberClient:42 - currentValue: 43
-2024-04-12 22:36:58 INFO  NumberObserver:19 - number from server: 7
-2024-04-12 22:36:58 INFO  NumberObserver:21 - currentValue: 51
-2024-04-12 22:36:58 INFO  NumberClient:42 - currentValue: 52
-2024-04-12 22:36:59 INFO  NumberClient:42 - currentValue: 53
-2024-04-12 22:37:00 INFO  NumberObserver:19 - number from server: 8
-2024-04-12 22:37:00 INFO  NumberObserver:21 - currentValue: 62
-2024-04-12 22:37:00 INFO  NumberClient:42 - currentValue: 63
-2024-04-12 22:37:02 INFO  NumberClient:42 - currentValue: 64
-2024-04-12 22:37:02 INFO  NumberObserver:19 - number from server: 9
-2024-04-12 22:37:02 INFO  NumberObserver:21 - currentValue: 74
-2024-04-12 22:37:03 INFO  NumberClient:42 - currentValue: 75
-2024-04-12 22:37:04 INFO  NumberClient:42 - currentValue: 76
-2024-04-12 22:37:04 INFO  NumberObserver:19 - number from server: 10
-2024-04-12 22:37:04 INFO  NumberObserver:21 - currentValue: 87
-2024-04-12 22:37:05 INFO  NumberClient:42 - currentValue: 88
-2024-04-12 22:37:06 INFO  NumberClient:42 - currentValue: 89
-2024-04-12 22:37:06 INFO  NumberObserver:19 - number from server: 11
-2024-04-12 22:37:06 INFO  NumberObserver:21 - currentValue: 101
-2024-04-12 22:37:07 INFO  NumberClient:42 - currentValue: 102
-2024-04-12 22:37:08 INFO  NumberClient:42 - currentValue: 103
-2024-04-12 22:37:08 INFO  NumberObserver:19 - number from server: 12
-2024-04-12 22:37:08 INFO  NumberObserver:21 - currentValue: 116
-2024-04-12 22:37:09 INFO  NumberClient:42 - currentValue: 117
-2024-04-12 22:37:10 INFO  NumberClient:42 - currentValue: 118
-2024-04-12 22:37:10 INFO  NumberObserver:19 - number from server: 13
-2024-04-12 22:37:10 INFO  NumberObserver:21 - currentValue: 132
-2024-04-12 22:37:11 INFO  NumberClient:42 - currentValue: 133
-2024-04-12 22:37:12 INFO  NumberClient:42 - currentValue: 134
-2024-04-12 22:37:12 INFO  NumberObserver:19 - number from server: 14
-2024-04-12 22:37:12 INFO  NumberObserver:21 - currentValue: 149
-2024-04-12 22:37:13 INFO  NumberClient:42 - currentValue: 150
-2024-04-12 22:37:14 INFO  NumberClient:42 - currentValue: 151
-2024-04-12 22:37:14 INFO  NumberObserver:19 - number from server: 15
-2024-04-12 22:37:14 INFO  NumberObserver:21 - currentValue: 167
-2024-04-12 22:37:15 INFO  NumberClient:42 - currentValue: 168
-2024-04-12 22:37:16 INFO  NumberClient:42 - currentValue: 169
-2024-04-12 22:37:16 INFO  NumberObserver:19 - number from server: 16
-2024-04-12 22:37:16 INFO  NumberObserver:21 - currentValue: 186
-2024-04-12 22:37:17 INFO  NumberClient:42 - currentValue: 187
-2024-04-12 22:37:18 INFO  NumberClient:42 - currentValue: 188
-2024-04-12 22:37:18 INFO  NumberObserver:19 - number from server: 17
-2024-04-12 22:37:18 INFO  NumberObserver:21 - currentValue: 206
-2024-04-12 22:37:19 INFO  NumberClient:42 - currentValue: 207
-2024-04-12 22:37:20 INFO  NumberClient:42 - currentValue: 208
-2024-04-12 22:37:20 INFO  NumberObserver:19 - number from server: 18
-2024-04-12 22:37:20 INFO  NumberObserver:21 - currentValue: 227
-2024-04-12 22:37:21 INFO  NumberClient:42 - currentValue: 228
-2024-04-12 22:37:22 INFO  NumberClient:42 - currentValue: 229
-2024-04-12 22:37:22 INFO  NumberObserver:19 - number from server: 19
-2024-04-12 22:37:22 INFO  NumberObserver:21 - currentValue: 249
-2024-04-12 22:37:23 INFO  NumberClient:42 - currentValue: 250
-2024-04-12 22:37:24 INFO  NumberClient:42 - currentValue: 251
-2024-04-12 22:37:24 INFO  NumberObserver:19 - number from server: 20
-2024-04-12 22:37:24 INFO  NumberObserver:21 - currentValue: 272
-2024-04-12 22:37:25 INFO  NumberClient:42 - currentValue: 273
-2024-04-12 22:37:26 INFO  NumberClient:42 - currentValue: 274
-2024-04-12 22:37:26 INFO  NumberObserver:19 - number from server: 21
-2024-04-12 22:37:26 INFO  NumberObserver:21 - currentValue: 296
-2024-04-12 22:37:27 INFO  NumberClient:42 - currentValue: 297
-2024-04-12 22:37:28 INFO  NumberClient:42 - currentValue: 298
-2024-04-12 22:37:28 INFO  NumberObserver:19 - number from server: 22
-2024-04-12 22:37:28 INFO  NumberObserver:21 - currentValue: 321
-2024-04-12 22:37:29 INFO  NumberClient:42 - currentValue: 322
-2024-04-12 22:37:30 INFO  NumberClient:42 - currentValue: 323
-2024-04-12 22:37:30 INFO  NumberObserver:19 - number from server: 23
-2024-04-12 22:37:30 INFO  NumberObserver:21 - currentValue: 347
-2024-04-12 22:37:31 INFO  NumberClient:42 - currentValue: 348
-2024-04-12 22:37:32 INFO  NumberClient:42 - currentValue: 349
-2024-04-12 22:37:32 INFO  NumberObserver:19 - number from server: 24
-2024-04-12 22:37:32 INFO  NumberObserver:21 - currentValue: 374
-2024-04-12 22:37:33 INFO  NumberClient:42 - currentValue: 375
-2024-04-12 22:37:34 INFO  NumberClient:46 - Shutting down the client...
+2024-04-15 10:03:52 INFO  NumberClient:27 - Starting the client...
+2024-04-15 10:03:53 INFO  NumberClient:39 - Sending request to server...
+2024-04-15 10:03:53 INFO  NumberClient:45 - currentValue: 1
+2024-04-15 10:03:53 INFO  NumberObserver:19 - number from server: 0
+2024-04-15 10:03:53 INFO  NumberObserver:21 - currentValue: 1
+2024-04-15 10:03:54 INFO  NumberClient:45 - currentValue: 2
+2024-04-15 10:03:55 INFO  NumberClient:45 - currentValue: 3
+2024-04-15 10:03:55 INFO  NumberObserver:19 - number from server: 1
+2024-04-15 10:03:55 INFO  NumberObserver:21 - currentValue: 4
+2024-04-15 10:03:56 INFO  NumberClient:45 - currentValue: 5
+2024-04-15 10:03:57 INFO  NumberClient:45 - currentValue: 6
+2024-04-15 10:03:57 INFO  NumberObserver:19 - number from server: 2
+2024-04-15 10:03:57 INFO  NumberObserver:21 - currentValue: 8
+2024-04-15 10:03:58 INFO  NumberClient:45 - currentValue: 9
+2024-04-15 10:03:59 INFO  NumberClient:45 - currentValue: 10
+2024-04-15 10:03:59 INFO  NumberObserver:19 - number from server: 3
+2024-04-15 10:03:59 INFO  NumberObserver:21 - currentValue: 13
+2024-04-15 10:04:00 INFO  NumberClient:45 - currentValue: 14
+2024-04-15 10:04:01 INFO  NumberClient:45 - currentValue: 15
+2024-04-15 10:04:01 INFO  NumberObserver:19 - number from server: 4
+2024-04-15 10:04:01 INFO  NumberObserver:21 - currentValue: 19
+2024-04-15 10:04:02 INFO  NumberClient:45 - currentValue: 20
+2024-04-15 10:04:03 INFO  NumberClient:45 - currentValue: 21
+2024-04-15 10:04:03 INFO  NumberObserver:19 - number from server: 5
+2024-04-15 10:04:03 INFO  NumberObserver:21 - currentValue: 26
+2024-04-15 10:04:04 INFO  NumberClient:45 - currentValue: 27
+2024-04-15 10:04:05 INFO  NumberClient:45 - currentValue: 28
+2024-04-15 10:04:05 INFO  NumberObserver:19 - number from server: 6
+2024-04-15 10:04:05 INFO  NumberObserver:21 - currentValue: 34
+2024-04-15 10:04:06 INFO  NumberClient:45 - currentValue: 35
+2024-04-15 10:04:07 INFO  NumberClient:45 - currentValue: 36
+2024-04-15 10:04:07 INFO  NumberObserver:19 - number from server: 7
+2024-04-15 10:04:07 INFO  NumberObserver:21 - currentValue: 43
+2024-04-15 10:04:08 INFO  NumberClient:45 - currentValue: 44
+2024-04-15 10:04:09 INFO  NumberClient:45 - currentValue: 45
+2024-04-15 10:04:09 INFO  NumberObserver:19 - number from server: 8
+2024-04-15 10:04:09 INFO  NumberObserver:21 - currentValue: 53
+2024-04-15 10:04:10 INFO  NumberClient:45 - currentValue: 54
+2024-04-15 10:04:11 INFO  NumberClient:45 - currentValue: 55
+2024-04-15 10:04:11 INFO  NumberObserver:19 - number from server: 9
+2024-04-15 10:04:11 INFO  NumberObserver:21 - currentValue: 64
+2024-04-15 10:04:12 INFO  NumberClient:45 - currentValue: 65
+2024-04-15 10:04:13 INFO  NumberClient:45 - currentValue: 66
+2024-04-15 10:04:13 INFO  NumberObserver:19 - number from server: 10
+2024-04-15 10:04:13 INFO  NumberObserver:21 - currentValue: 76
+2024-04-15 10:04:14 INFO  NumberClient:45 - currentValue: 77
+2024-04-15 10:04:15 INFO  NumberClient:45 - currentValue: 78
+2024-04-15 10:04:15 INFO  NumberObserver:19 - number from server: 11
+2024-04-15 10:04:15 INFO  NumberObserver:21 - currentValue: 89
+2024-04-15 10:04:16 INFO  NumberClient:45 - currentValue: 90
+2024-04-15 10:04:17 INFO  NumberClient:45 - currentValue: 91
+2024-04-15 10:04:17 INFO  NumberObserver:19 - number from server: 12
+2024-04-15 10:04:17 INFO  NumberObserver:21 - currentValue: 103
+2024-04-15 10:04:18 INFO  NumberClient:45 - currentValue: 104
+2024-04-15 10:04:19 INFO  NumberClient:45 - currentValue: 105
+2024-04-15 10:04:19 INFO  NumberObserver:19 - number from server: 13
+2024-04-15 10:04:19 INFO  NumberObserver:21 - currentValue: 118
+2024-04-15 10:04:20 INFO  NumberClient:45 - currentValue: 119
+2024-04-15 10:04:21 INFO  NumberClient:45 - currentValue: 120
+2024-04-15 10:04:21 INFO  NumberObserver:19 - number from server: 14
+2024-04-15 10:04:21 INFO  NumberObserver:21 - currentValue: 134
+2024-04-15 10:04:22 INFO  NumberClient:45 - currentValue: 135
+2024-04-15 10:04:23 INFO  NumberClient:45 - currentValue: 136
+2024-04-15 10:04:23 INFO  NumberObserver:19 - number from server: 15
+2024-04-15 10:04:23 INFO  NumberObserver:21 - currentValue: 151
+2024-04-15 10:04:24 INFO  NumberClient:45 - currentValue: 152
+2024-04-15 10:04:25 INFO  NumberClient:45 - currentValue: 153
+2024-04-15 10:04:25 INFO  NumberObserver:19 - number from server: 16
+2024-04-15 10:04:25 INFO  NumberObserver:21 - currentValue: 169
+2024-04-15 10:04:26 INFO  NumberClient:45 - currentValue: 170
+2024-04-15 10:04:27 INFO  NumberClient:45 - currentValue: 171
+2024-04-15 10:04:27 INFO  NumberObserver:19 - number from server: 17
+2024-04-15 10:04:27 INFO  NumberObserver:21 - currentValue: 188
+2024-04-15 10:04:28 INFO  NumberClient:45 - currentValue: 189
+2024-04-15 10:04:29 INFO  NumberClient:45 - currentValue: 190
+2024-04-15 10:04:29 INFO  NumberObserver:19 - number from server: 18
+2024-04-15 10:04:29 INFO  NumberObserver:21 - currentValue: 208
+2024-04-15 10:04:30 INFO  NumberClient:45 - currentValue: 209
+2024-04-15 10:04:31 INFO  NumberClient:45 - currentValue: 210
+2024-04-15 10:04:31 INFO  NumberObserver:19 - number from server: 19
+2024-04-15 10:04:31 INFO  NumberObserver:21 - currentValue: 229
+2024-04-15 10:04:32 INFO  NumberClient:45 - currentValue: 230
+2024-04-15 10:04:33 INFO  NumberClient:45 - currentValue: 231
+2024-04-15 10:04:33 INFO  NumberObserver:19 - number from server: 20
+2024-04-15 10:04:33 INFO  NumberObserver:21 - currentValue: 251
+2024-04-15 10:04:34 INFO  NumberClient:45 - currentValue: 252
+2024-04-15 10:04:35 INFO  NumberClient:45 - currentValue: 253
+2024-04-15 10:04:35 INFO  NumberObserver:19 - number from server: 21
+2024-04-15 10:04:35 INFO  NumberObserver:21 - currentValue: 274
+2024-04-15 10:04:36 INFO  NumberClient:45 - currentValue: 275
+2024-04-15 10:04:37 INFO  NumberClient:45 - currentValue: 276
+2024-04-15 10:04:37 INFO  NumberObserver:19 - number from server: 22
+2024-04-15 10:04:37 INFO  NumberObserver:21 - currentValue: 298
+2024-04-15 10:04:38 INFO  NumberClient:45 - currentValue: 299
+2024-04-15 10:04:39 INFO  NumberClient:45 - currentValue: 300
+2024-04-15 10:04:39 INFO  NumberObserver:19 - number from server: 23
+2024-04-15 10:04:39 INFO  NumberObserver:21 - currentValue: 323
+2024-04-15 10:04:40 INFO  NumberClient:45 - currentValue: 324
+2024-04-15 10:04:41 INFO  NumberClient:45 - currentValue: 325
+2024-04-15 10:04:41 INFO  NumberObserver:19 - number from server: 24
+2024-04-15 10:04:41 INFO  NumberObserver:21 - currentValue: 349
+2024-04-15 10:04:42 INFO  NumberClient:45 - currentValue: 350
+2024-04-15 10:04:43 INFO  NumberClient:49 - Shutting down the client...
